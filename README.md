@@ -23,7 +23,7 @@ WebPage Preview Link [Here]()
 
 How to clone your project
 ```bash
-git clone 
+git clone https://github.com/VadikGoyal1/Portfolio-template.git
 ```
 ```bash
 cd project-name
