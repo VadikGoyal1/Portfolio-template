@@ -9,12 +9,12 @@ Pure HTML, CSS used
 
 ## 🔗 To see the project
 
-WebPage Preview Link [Here]()
+WebPage Preview Link [Here](https://vadikgoyal1.github.io/Portfolio-template/)
 
 ## 👓 Preview
 
 <div align="center">
-<a href="" target="blank">
+<a href="https://vadikgoyal1.github.io/Portfolio-template/" target="blank">
   <img src="img/preview.png" height="auto0" alt="preview png" width = "75%">
 </a>
 </div>
