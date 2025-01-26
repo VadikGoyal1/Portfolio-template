@@ -22,7 +22,7 @@ WebPage Preview Link [Here](https://vadikgoyal1.github.io/Portfolio-template/)
 ## <img src="img/github-logo.png" /> Cloning 
 
 How to clone your project
-```bash
+```rust
 git clone https://github.com/VadikGoyal1/Portfolio-template.git
 ```
 ```bash
